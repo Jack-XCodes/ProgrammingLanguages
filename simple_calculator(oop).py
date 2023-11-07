@@ -1,3 +1,6 @@
+# JACOB KASUNZU JOHN
+# SCT211-0089/2022
+
 class Calculator:
     def add(self, num1, num2):
         return num1 + num2
